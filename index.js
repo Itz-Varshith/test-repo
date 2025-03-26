@@ -8,11 +8,5 @@ function sayName(){
 
 
 function isAbove18(age){
-    if(age>18)
-        return true;
-    else return false;
-}
-
-function sub(a,b){
-    return a-b;
+    return age>=18;
 }
