@@ -13,3 +13,7 @@ function isAbove18(age){
 function newFeature(){
     console.log("testing for the new feature");
 }
+
+function newFeature22(){
+    console.log("testing for the new feature");
+}
