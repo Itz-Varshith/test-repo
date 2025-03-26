@@ -12,3 +12,7 @@ function isAbove18(age){
         return true;
     else return false;
 }
+
+function sub(a,b){
+    return a-b;
+}
